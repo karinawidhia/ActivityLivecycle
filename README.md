@@ -2,15 +2,15 @@
 
 ### Screenshot Aplikasi
 
-#### Screenshot 1:
+#### Screenshot 1 (Tampilan awal ketika di run):
 
 ![Ss1](https://github.com/karinawidhia/ActivityLivecycle/blob/master/Lat4(1).PNG)
 
-#### Screenshot 2:
+#### Screenshot 2 (Tampilan setelah menekan tombol home):
 
 ![Ss2](https://github.com/karinawidhia/ActivityLivecycle/blob/master/Lat4(2).PNG)
 
-#### Screenshot 3:
+#### Screenshot 3 (Tampilan setelah menekan tombol back):
 
 ![Ss3](https://github.com/karinawidhia/ActivityLivecycle/blob/master/Lat4(3).PNG)
 
